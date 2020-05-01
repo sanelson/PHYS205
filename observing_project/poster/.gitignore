@@ -12,6 +12,8 @@
 *.toc
 *.fdb_latexmk
 *.fls
+*.bcf
+*.run.xml
 
 # Jupyter notebook files
 .ipynb_checkpoints
