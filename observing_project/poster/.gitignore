@@ -12,3 +12,6 @@
 *.toc
 *.fdb_latexmk
 *.fls
+
+# Jupyter notebook files
+.ipynb_checkpoints
